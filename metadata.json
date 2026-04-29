@@ -1,0 +1,7 @@
+{
+  "name": "Thợ Gần Nhà",
+  "description": "Ứng dụng kết nối người dùng với thợ sửa chữa, điện nước, điện tử tại khu vực lân cận.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
